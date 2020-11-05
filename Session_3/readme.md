@@ -1,6 +1,6 @@
 # Session_3 Assignment
 
-***1) Write a function using only list filter lambda that can tell whether a number is a Fibonacci number or not. You can use a pre-calculated list/dict to store fab numbers till 10000***
+***1) Write a function using only list filter lambda that can tell whether a number is a Fibonacci number or not. You can use a pre-calculated list/dict to store fab numbers till 10000***\
 
 **fib_checker(t:int)**
 
