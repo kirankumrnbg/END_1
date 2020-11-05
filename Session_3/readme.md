@@ -1,5 +1,8 @@
 # Session_3 Assignment
 
+***The solution with test cases available in notebook.***
+
+
 ***1) Write a function using only list filter lambda that can tell whether a number is a Fibonacci number or not. You can use a pre-calculated list/dict to store fab numbers till 10000 : *** 
 
 **def fib_checker(t:int)**
